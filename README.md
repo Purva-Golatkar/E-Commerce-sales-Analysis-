@@ -4,5 +4,5 @@ Where I learned the following things:-
 ###Used complex parameters to drill down in worksheet and customization using filters and slicers.
 ###Enable user driven parameters for visualizations.
 ###Created connections, join new tables. 
-###Data Cleaning.
-###Created measures using DAX.
+
+###Data Cleaning.  ###Created measures using DAX.
